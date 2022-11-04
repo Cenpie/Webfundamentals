@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Prashant Singh</h1>
+<p>Software Developer, Educator at Geekster</p>
+<a href="https://www.linkedin.com/login">Linkedin</a>
+<a href="https://github.com/">Github</a>
+<hr>
+<h2>Experience</h2>
+<h3>Software Developer at Amazon</h3>
+<p>I am a software engineer in transportation team, some more description + Loren Ipsum</p>
+<hr>
+<h3>Educator at Geekster</h3>
+<p>Loren Ipsum</p>
+<hr>
+<h2>Skills</h2>
+<hr>
+<h2>Skills</h2>
+<ul>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>Testing</li>
+  <li>API design</li>
+  <li>System design</li>
+</ul>  
+<hr>
+<h2>Hobbies</h2>
+<ol>
+  <li>Table Tennies</li>
+  <li>Reading Books</li>
+  <li>Biography</li>
+  <li>Teaching</li>
+</ol>
+<hr>
+</body>
+</html>
